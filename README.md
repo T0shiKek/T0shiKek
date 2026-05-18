@@ -1,41 +1,24 @@
 # Toshi</> 👋
 
 🎮 Beginner Game Developer  
-💻 Learning C#, C++ and Unity  
-📚 Currently focused on programming fundamentals and OOP
-
----
+💻 Learning C#, C++ and Unity
 
 ## 🚀 About Me
 
 I enjoy creating small projects and learning how games work internally.
 
-Right now I'm improving my skills in:
+Currently learning:
 - C#
-- Object-Oriented Programming
+- OOP
 - Console Applications
-- Unity basics
-
----
+- Unity
 
 ## 🛠️ Current Project
 
 - 🎲 Console Hangman Game in C#
 
----
-
 ## 🎯 Goals
 
-- Improve my C# skills
-- Learn Unity game development
-- Create larger and more complex projects
-- Better understand game architecture and gameplay systems
-
----
-
-## 📖 Currently Learning
-
-- OOP principles
-- Clean code
-- Git & GitHub
-- Game development fundamentals
+- Improve my programming skills
+- Learn game development
+- Create larger projects
